@@ -8,19 +8,18 @@ src="https://github.com/user-attachments/assets/3aa9ad71-00a7-422e-b790-5389e23b
 
 <div align="center">
 
-<img
-  src="https://komarev.com/ghpvc/?username=SaintRimoshifu&label=cool%20visitors&color=A0638E&labelColor=00000&style=flat-square"
-  alt="lil-sleepers"
-/>
+
+
 
 </div>
 
 <div align="center">
+ <img
+ src="https://cdn.phototourl.com/member/2026-10-17-0df7f1e7-be15-4555-85e8-34a041c8620e.png"
+ />
+   
 
-<
+<img
+ src="https://cdn.phototourl.com/member/2026-10-17-b1cbcf20-86d5-48ad-8d1c-4e28adf8cb8b.png" />
+whatever I just like them
  
-
-/>
-
-<div align="center">
-
